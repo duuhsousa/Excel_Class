@@ -1,0 +1,10 @@
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\bin\Debug\netcoreapp2.0\Excel_Class.deps.json
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\bin\Debug\netcoreapp2.0\Excel_Class.runtimeconfig.json
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\bin\Debug\netcoreapp2.0\Excel_Class.runtimeconfig.dev.json
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\bin\Debug\netcoreapp2.0\Excel_Class.dll
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\bin\Debug\netcoreapp2.0\Excel_Class.pdb
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\obj\Debug\netcoreapp2.0\Excel_Class.csproj.CoreCompileInputs.cache
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\obj\Debug\netcoreapp2.0\Excel_Class.AssemblyInfoInputs.cache
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\obj\Debug\netcoreapp2.0\Excel_Class.AssemblyInfo.cs
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\obj\Debug\netcoreapp2.0\Excel_Class.dll
+c:\Users\31049529812\Desktop\Back_A\Project_1\Excel_Class\obj\Debug\netcoreapp2.0\Excel_Class.pdb
